@@ -1,0 +1,608 @@
+job_title,salary_in_usd,company_size
+Data Scientist,79833,3
+Machine Learning Scientist,260000,1
+Big Data Engineer,109024,2
+Product Data Analyst,20000,1
+Machine Learning Engineer,150000,3
+Data Analyst,72000,3
+Lead Data Scientist,190000,1
+Data Scientist,35735,3
+Business Data Analyst,135000,3
+Lead Data Engineer,125000,1
+Data Scientist,51321,1
+Data Scientist,40481,3
+Data Scientist,39916,2
+Lead Data Analyst,87000,3
+Data Analyst,85000,3
+Data Analyst,8000,3
+Data Engineer,41689,1
+Big Data Engineer,114047,1
+Data Science Consultant,5707,2
+Lead Data Engineer,56000,2
+Machine Learning Engineer,43331,2
+Product Data Analyst,6072,3
+Data Engineer,47899,3
+BI Data Analyst,98000,2
+Lead Data Scientist,115000,3
+Director of Data Science,325000,3
+Research Scientist,42000,3
+Data Engineer,33511,1
+Business Data Analyst,100000,3
+Machine Learning Manager,117104,3
+Data Engineering Manager,59303,1
+Big Data Engineer,70000,3
+Data Scientist,68428,3
+Research Scientist,450000,2
+Data Analyst,46759,3
+Data Engineer,74130,3
+Data Science Consultant,103000,3
+Machine Learning Engineer,250000,3
+Data Analyst,10000,1
+Machine Learning Engineer,138000,1
+Data Scientist,45760,1
+Data Engineering Manager,79833,3
+Machine Learning Infrastructure Engineer,50180,2
+Data Engineer,106000,3
+Data Engineer,112872,3
+ML Engineer,15966,1
+Data Scientist,76958,1
+Data Engineer,188000,3
+Data Scientist,105000,3
+Data Engineer,70139,3
+Data Analyst,6072,1
+Data Analyst,91000,3
+AI Scientist,45896,1
+Data Engineer,54742,3
+Computer Vision Engineer,60000,1
+Principal Data Scientist,148261,2
+Data Scientist,38776,2
+Data Scientist,118000,2
+Data Scientist,120000,3
+Data Scientist,138350,2
+Data Engineer,110000,3
+Data Engineer,130800,2
+Data Scientist,21669,1
+Data Scientist,412000,3
+Machine Learning Engineer,45618,1
+Data Scientist,62726,1
+Data Scientist,49268,1
+Data Science Manager,190200,2
+Data Scientist,105000,1
+Data Scientist,91237,1
+Data Scientist,62726,1
+Data Scientist,42197,1
+Research Scientist,82528,3
+BI Data Analyst,150000,3
+Head of Data,235000,3
+Data Scientist,53192,3
+BI Data Analyst,100000,2
+3D Computer Vision Researcher,5409,2
+ML Engineer,270000,3
+Data Analyst,80000,2
+Data Analytics Engineer,79197,3
+Data Engineer,140000,3
+Applied Data Scientist,54238,3
+Machine Learning Engineer,47282,1
+Director of Data Science,153667,3
+Data Engineer,28476,3
+Data Analyst,59102,2
+Data Analytics Engineer,110000,3
+Lead Data Analyst,170000,3
+Data Analyst,80000,1
+Marketing Data Analyst,88654,3
+Data Science Consultant,76833,1
+Lead Data Analyst,19609,3
+Lead Data Engineer,276000,3
+Data Scientist,29751,3
+Cloud Data Engineer,89294,3
+AI Scientist,12000,1
+Financial Data Analyst,450000,3
+Computer Vision Software Engineer,70000,2
+Computer Vision Software Engineer,95746,1
+Data Analyst,75000,3
+Data Engineer,150000,3
+BI Data Analyst,36259,3
+Data Analyst,62000,3
+Data Scientist,73000,3
+Data Analyst,51519,3
+Research Scientist,187442,3
+Data Engineer,115000,1
+Data Engineer,150000,2
+Data Engineer,30428,3
+Machine Learning Engineer,94564,3
+Director of Data Engineering,113476,2
+Lead Data Engineer,103160,1
+AI Scientist,12000,2
+Data Engineer,45391,3
+Machine Learning Scientist,225000,3
+Data Scientist,50000,3
+Data Science Engineer,40189,2
+Data Analyst,90000,1
+Data Engineer,200000,3
+Big Data Engineer,60000,2
+Principal Data Engineer,200000,2
+Data Analyst,50000,2
+Applied Data Scientist,110037,3
+Data Analyst,10354,2
+Principal Data Scientist,151000,3
+Machine Learning Scientist,120000,1
+Data Scientist,9466,1
+Machine Learning Engineer,20000,1
+Lead Data Scientist,40570,3
+Machine Learning Developer,100000,1
+Data Scientist,49646,2
+Applied Machine Learning Scientist,38400,2
+Computer Vision Engineer,24000,2
+Data Scientist,100000,1
+Data Analyst,90000,2
+ML Engineer,63711,1
+ML Engineer,77364,1
+Principal Data Scientist,220000,3
+Data Scientist,80000,2
+Data Analyst,135000,3
+Data Science Manager,240000,3
+Data Engineering Manager,150000,3
+Data Scientist,82500,1
+Data Engineer,100000,3
+Machine Learning Engineer,82744,2
+Research Scientist,62649,2
+Data Engineer,90000,3
+Data Engineering Manager,153000,3
+Cloud Data Engineer,160000,1
+Director of Data Science,168000,1
+Data Scientist,150000,2
+Data Scientist,75774,3
+Data Scientist,13400,3
+Data Science Manager,144000,3
+Data Science Engineer,127221,3
+Data Scientist,119059,2
+Applied Machine Learning Scientist,423000,3
+Data Analytics Manager,120000,2
+Machine Learning Engineer,125000,1
+Head of Data,230000,3
+Head of Data Science,85000,2
+Data Engineer,28369,3
+Data Science Consultant,63831,3
+Director of Data Science,130026,2
+Data Specialist,165000,3
+Data Engineer,80000,3
+Director of Data Science,250000,3
+BI Data Analyst,55000,1
+Data Architect,150000,3
+Data Architect,170000,3
+Data Engineer,82528,3
+Data Analyst,60000,1
+Principal Data Scientist,235000,3
+Research Scientist,60757,3
+Data Engineering Manager,174000,3
+Data Scientist,2859,1
+Data Scientist,40038,3
+Machine Learning Engineer,81000,1
+Data Scientist,5679,1
+Big Data Engineer,22611,3
+Data Scientist,90734,3
+Data Engineer,26005,3
+Finance Data Analyst,61896,3
+Machine Learning Scientist,12000,2
+Data Engineer,4000,2
+Data Analytics Engineer,50000,2
+Data Science Consultant,69741,1
+Data Engineer,76833,1
+Machine Learning Engineer,74000,1
+Data Science Manager,152000,3
+Machine Learning Engineer,21844,2
+Big Data Engineer,18000,1
+Data Science Manager,174000,3
+Research Scientist,96113,3
+Data Scientist,147000,3
+BI Data Analyst,9272,1
+Machine Learning Engineer,24342,3
+Data Science Manager,54094,3
+Data Science Consultant,90000,1
+Data Scientist,61467,2
+Machine Learning Infrastructure Engineer,195000,2
+Data Scientist,37825,3
+Research Scientist,50000,1
+Data Scientist,160000,3
+Data Scientist,12901,1
+Machine Learning Engineer,200000,3
+Data Engineer,165000,2
+Data Engineer,20000,3
+Data Analytics Manager,120000,3
+Machine Learning Engineer,24823,3
+Research Scientist,56738,1
+Data Engineer,66022,1
+Big Data Engineer,5882,3
+Machine Learning Engineer,24823,2
+Principal Data Engineer,185000,3
+Computer Vision Engineer,28609,1
+Data Scientist,90734,3
+Machine Learning Engineer,88654,2
+Data Analytics Manager,140000,3
+Machine Learning Engineer,46597,3
+Data Scientist,116914,3
+Data Scientist,33808,2
+Data Scientist,56256,3
+Machine Learning Scientist,225000,3
+Principal Data Scientist,416000,1
+Data Scientist,87738,1
+Data Scientist,88654,3
+Data Scientist,135000,3
+Data Analyst,71786,2
+Big Data Engineer,16228,3
+ML Engineer,256000,1
+Director of Data Engineering,200000,3
+Data Analyst,200000,3
+Data Architect,180000,3
+Head of Data Science,110000,1
+Research Scientist,63810,2
+Data Scientist,46809,2
+Data Scientist,4000,2
+Data Engineer,21637,2
+Data Scientist,103691,3
+Data Analyst,80000,3
+Data Engineer,110000,3
+Data Scientist,165000,3
+AI Scientist,18053,1
+Data Engineer,72212,3
+Data Scientist,36643,3
+Data Engineer,12103,2
+Data Engineer,96282,3
+Principal Data Analyst,170000,2
+Data Scientist,115000,3
+Data Scientist,90000,1
+Principal Data Engineer,600000,3
+Data Scientist,28399,2
+Data Analyst,93000,3
+Big Data Architect,99703,2
+Data Engineer,200000,3
+Principal Data Scientist,173762,2
+Machine Learning Engineer,185000,3
+Director of Data Science,141846,3
+Data Scientist,130000,3
+Data Analyst,63831,3
+Data Scientist,16904,1
+Machine Learning Engineer,66265,3
+Data Scientist,25532,1
+Lead Data Engineer,160000,1
+Data Engineer,93150,2
+Data Engineer,111775,2
+Data Engineer,28016,2
+Data Engineer,65013,2
+Data Engineer,72500,3
+Computer Vision Engineer,18907,2
+Data Science Consultant,76833,3
+Machine Learning Engineer,85000,1
+Data Scientist,77684,2
+Data Scientist,100000,2
+Data Scientist,58000,3
+AI Scientist,55000,3
+Data Scientist,20171,3
+Business Data Analyst,59102,3
+Data Engineer,112000,3
+Research Scientist,100000,3
+Data Engineer,69741,3
+Staff Data Scientist,105000,2
+Research Scientist,69999,3
+Data Science Manager,94665,3
+Head of Data,102839,3
+Data Scientist,109000,3
+Machine Learning Engineer,51064,3
+Data Engineer,135000,2
+Data Analyst,155000,2
+Data Analyst,120600,2
+Data Scientist,130000,2
+Data Scientist,90000,2
+Data Engineer,170000,2
+Data Engineer,150000,2
+Data Analyst,102100,2
+Data Analyst,84900,2
+Data Scientist,136620,2
+Data Scientist,99360,2
+Data Scientist,117789,2
+Data Scientist,104702,2
+Data Scientist,146000,2
+Data Scientist,123000,2
+Data Engineer,52351,2
+Data Analyst,99000,2
+Data Analyst,116000,2
+Data Analyst,106260,2
+Data Analyst,126500,2
+Data Engineer,242000,2
+Data Engineer,200000,2
+Data Scientist,65438,2
+Data Scientist,39263,2
+Data Engineer,78526,2
+Data Engineer,52351,2
+Data Scientist,165220,2
+Data Engineer,45807,2
+Data Scientist,120160,2
+Data Analyst,90320,2
+Data Engineer,181940,2
+Data Engineer,132320,2
+Data Engineer,220110,2
+Data Engineer,160080,2
+Data Scientist,180000,3
+Data Scientist,120000,3
+Data Analyst,124190,2
+Data Analyst,130000,2
+Data Analyst,110000,2
+Data Analyst,170000,2
+Data Analyst,115500,2
+Data Analyst,112900,2
+Data Analyst,90320,2
+Data Analyst,112900,2
+Data Analyst,90320,2
+Data Engineer,165400,2
+Data Engineer,132320,2
+Data Analyst,167000,2
+Data Engineer,243900,2
+Data Analyst,136600,2
+Data Analyst,109280,2
+Data Engineer,128875,2
+Data Engineer,93700,2
+Head of Data Science,224000,2
+Head of Data Science,167875,2
+Analytics Engineer,175000,2
+Data Engineer,156600,2
+Data Engineer,108800,2
+Data Scientist,95550,2
+Data Engineer,113000,3
+Data Analyst,135000,2
+Data Science Manager,161342,2
+Data Science Manager,137141,2
+Data Scientist,167000,2
+Data Scientist,123000,2
+Data Engineer,78526,2
+Data Engineer,65438,2
+Data Scientist,150000,2
+Data Scientist,211500,2
+Data Architect,192400,2
+Data Architect,90700,2
+Data Analyst,130000,2
+Data Analyst,61300,2
+Data Analyst,130000,2
+Data Analyst,61300,2
+Data Engineer,160000,3
+Data Scientist,138600,2
+Data Engineer,136000,2
+Data Analyst,58000,1
+Analytics Engineer,135000,2
+Data Scientist,170000,2
+Data Scientist,123000,2
+Machine Learning Engineer,189650,2
+Machine Learning Engineer,164996,2
+ETL Developer,54957,2
+ETL Developer,54957,2
+Lead Data Engineer,118187,1
+Data Analyst,132000,2
+Data Engineer,165400,2
+Data Architect,208775,2
+Data Architect,147800,2
+Data Engineer,136994,2
+Data Engineer,101570,2
+Data Analyst,128875,2
+Data Analyst,93700,2
+Head of Machine Learning,79039,3
+Data Engineer,132320,2
+Machine Learning Engineer,37300,3
+Data Analyst,164000,2
+Data Engineer,155000,2
+Machine Learning Engineer,124333,2
+Machine Learning Engineer,98158,2
+AI Scientist,120000,2
+Data Analyst,112900,2
+Data Analyst,90320,2
+Data Analytics Manager,145000,2
+Data Analytics Manager,105400,2
+Machine Learning Engineer,87932,2
+Data Engineer,117789,2
+Data Scientist,215300,3
+Data Scientist,158200,3
+Data Engineer,209100,3
+Data Engineer,154600,3
+Data Analyst,115934,2
+Data Analyst,81666,2
+Data Engineer,175000,2
+Data Engineer,98158,2
+Data Analyst,58000,1
+Data Engineer,183600,3
+Data Analyst,52351,2
+Data Scientist,180000,2
+Data Scientist,71982,2
+Data Scientist,45807,2
+Data Engineer,65949,2
+Data Engineer,49461,2
+Data Engineer,78526,2
+Data Engineer,58894,2
+Data Scientist,260000,2
+Data Science Engineer,60000,3
+Data Engineer,63900,2
+Machine Learning Scientist,160000,3
+Machine Learning Scientist,112300,3
+Data Science Manager,241000,2
+Data Science Manager,159000,2
+Data Scientist,180000,2
+Data Scientist,80000,2
+Data Engineer,82900,2
+Data Engineer,100800,3
+Data Engineer,49461,2
+Data Scientist,140400,3
+Data Analyst,39263,2
+Data Analyst,43966,2
+Data Analyst,32974,2
+Data Engineer,87932,2
+Data Engineer,76940,2
+Data Engineer,104702,2
+Data Engineer,91614,2
+Data Engineer,65949,2
+Data Engineer,87932,2
+Machine Learning Engineer,189650,2
+Machine Learning Engineer,164996,2
+Data Analyst,43966,2
+Data Analyst,32974,2
+Data Engineer,98158,2
+Data Engineer,78526,2
+Data Scientist,215300,3
+Data Engineer,76940,2
+Data Engineer,209100,3
+Data Engineer,154600,3
+Data Engineer,180000,2
+ML Engineer,21983,3
+Data Engineer,80000,2
+Machine Learning Developer,78791,2
+Director of Data Science,196979,3
+Machine Learning Engineer,120000,1
+Computer Vision Engineer,125000,2
+NLP Engineer,37236,3
+Data Engineer,105000,2
+Lead Machine Learning Engineer,87932,2
+Business Data Analyst,18442,2
+Data Scientist,31615,3
+Machine Learning Infrastructure Engineer,58255,3
+Financial Data Analyst,100000,3
+Data Engineer,54957,3
+Data Scientist,18442,2
+Principal Data Scientist,162674,2
+Data Engineer,120000,2
+Research Scientist,144000,3
+Data Scientist,104890,2
+Data Engineer,100000,2
+Data Scientist,140000,2
+Data Analyst,135000,2
+Data Analyst,50000,2
+Data Scientist,220000,2
+Data Scientist,140000,2
+Data Scientist,183228,2
+Data Scientist,91614,2
+Data Scientist,185100,2
+Machine Learning Engineer,220000,2
+Data Scientist,200000,2
+Data Scientist,120000,2
+Machine Learning Engineer,120000,1
+Machine Learning Engineer,65000,1
+Data Engineer,324000,2
+Data Engineer,216000,2
+Data Engineer,210000,2
+Machine Learning Engineer,120000,2
+Data Scientist,230000,2
+Data Scientist,100000,2
+Data Scientist,100000,2
+Applied Machine Learning Scientist,31875,2
+Head of Data,200000,2
+Principal Data Analyst,75000,1
+Data Scientist,35590,3
+Machine Learning Developer,78791,2
+Data Scientist,100000,2
+Machine Learning Scientist,153000,2
+Data Engineer,58035,2
+Data Scientist,165000,2
+Research Scientist,93427,3
+Data Scientist,52396,3
+Machine Learning Engineer,62651,3
+Head of Data,32974,1
+Data Scientist,40000,3
+Machine Learning Engineer,87425,3
+Data Engineer,115000,2
+Data Scientist,86703,2
+Applied Machine Learning Scientist,75000,3
+Research Scientist,64849,3
+Research Scientist,120000,3
+Applied Data Scientist,157000,3
+Computer Vision Software Engineer,150000,1
+Business Data Analyst,70912,3
+Data Engineer,65000,1
+Machine Learning Engineer,71444,1
+Data Analytics Engineer,20000,2
+Data Scientist,48000,1
+Data Science Manager,152500,2
+Data Engineer,68147,2
+Data Scientist,122346,3
+Applied Data Scientist,380000,3
+Data Scientist,69336,2
+Computer Vision Engineer,10000,2
+Data Analyst,20000,1
+Data Analytics Lead,405000,3
+Data Scientist,135000,3
+Applied Data Scientist,177000,3
+Data Scientist,78000,2
+Data Analyst,135000,2
+Data Analyst,100000,2
+Data Analyst,90320,2
+Data Analyst,85000,2
+Data Analyst,75000,2
+Machine Learning Engineer,214000,2
+Machine Learning Engineer,192600,2
+Data Architect,266400,2
+Data Architect,213120,2
+Data Analyst,112900,2
+Data Engineer,155000,2
+Data Scientist,141300,2
+Data Scientist,102100,2
+Data Analyst,115934,2
+Data Analyst,81666,2
+Data Engineer,206699,2
+Data Engineer,99100,2
+Data Engineer,130000,2
+Data Engineer,115000,2
+Data Engineer,110500,2
+Data Engineer,130000,2
+Data Analyst,99050,2
+Data Engineer,160000,2
+Data Scientist,205300,3
+Data Scientist,140400,3
+Data Scientist,176000,2
+Data Scientist,144000,2
+Data Engineer,200100,2
+Data Engineer,160000,2
+Data Engineer,145000,2
+Data Engineer,70500,2
+Data Scientist,205300,2
+Data Scientist,140400,2
+Analytics Engineer,205300,2
+Analytics Engineer,184700,2
+Data Engineer,175100,2
+Data Engineer,140250,2
+Data Analyst,116150,2
+Data Engineer,54000,2
+Data Analyst,170000,2
+Data Analyst,65438,2
+Data Analyst,80000,2
+Data Scientist,140000,2
+Data Scientist,210000,2
+Data Scientist,140000,2
+Data Analyst,100000,2
+Data Analyst,69000,2
+Data Scientist,210000,2
+Data Scientist,140000,2
+Data Scientist,210000,2
+Data Analyst,150075,2
+Data Engineer,100000,2
+Data Engineer,25000,2
+Data Analyst,126500,2
+Data Analyst,106260,2
+Data Engineer,220110,2
+Data Engineer,160080,2
+Data Analyst,105000,2
+Data Analyst,110925,2
+Data Analyst,45807,2
+Data Scientist,140000,2
+Data Analyst,99000,2
+Data Analyst,60000,2
+Data Architect,192564,2
+Data Architect,144854,2
+Data Scientist,230000,2
+Data Scientist,150000,2
+Data Analytics Manager,150260,2
+Data Analytics Manager,109280,2
+Data Scientist,210000,2
+Data Analyst,170000,2
+Data Scientist,160000,2
+Data Scientist,130000,2
+Data Analyst,67000,2
+Data Analyst,52000,2
+Data Engineer,154000,2
+Data Engineer,126000,2
+Data Analyst,129000,2
+Data Analyst,150000,2
+AI Scientist,200000,3
